@@ -1,8 +1,5 @@
-# maven-project
-Source code for James Lee's Jenkins course.
+# jenkins - aws
+Source code is from James Lee's.
 
-Check out our Latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book
-
-Let's go
+# added
+pipeline
